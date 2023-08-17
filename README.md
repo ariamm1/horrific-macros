@@ -8,6 +8,7 @@ languages like:
 - Fortran 
 - Lua
 - Algol 
+- maybe Python
 
 there is no documentary just look at the `horrors.h` file
 
