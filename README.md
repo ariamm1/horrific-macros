@@ -1,6 +1,7 @@
-# pushing C macros to its boundris
+# pushing C macros to its boundries
 i made this out of boredom and curiosity.
 the syntax is a mix of old and new languages
+
 languages like:
 Ada 
 Pascal 
