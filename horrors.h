@@ -1,5 +1,5 @@
-#ifndef VB_H
-#define VB_H
+#ifndef HORRORS_H
+#define HORRORS_H
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
